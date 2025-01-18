@@ -4,4 +4,7 @@ public class SomeProgram {
       System.out.println("We will be Git experts, soon.");
       //Nowy commit
     }
+    public void startRocket(){
+    Rockets.launch(10);
+    }
 }
